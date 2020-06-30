@@ -1,4 +1,6 @@
-# Attrition-Rate-in-organization---Regression-model.-Hackerearth-competition (rank 9th out of 3150 participants as on 22/6/2020 )
+# Attrition-Rate-in-organization---Regression-model.-Hackerearth-competition (final rank 26th out of 5164 participants  )
+
+
 Employees are the most important part of an organization. Successful employees meet deadlines, make sales, and build the brand through positive customer interactions.  Employee attrition is a major cost to an organization and predicting such attritions is the most important requirement of the Human Resources department in many organizations. In this problem, your task is to predict the attrition rate of employees of an organization.
 
 
